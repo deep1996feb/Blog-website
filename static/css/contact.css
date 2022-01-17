@@ -1,0 +1,10 @@
+.contact-content{
+height: 395px;
+display: flex;
+margin-top: 12px;
+/* background-color: rgb(236, 191, 191);  */
+padding: 9px;
+height: 80vh;
+width: 100%;
+overflow: hidden;
+}
